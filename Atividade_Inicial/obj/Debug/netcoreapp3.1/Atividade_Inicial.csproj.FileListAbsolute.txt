@@ -1,0 +1,11 @@
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\bin\Debug\netcoreapp3.1\Atividade_Inicial.exe
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\bin\Debug\netcoreapp3.1\Atividade_Inicial.deps.json
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\bin\Debug\netcoreapp3.1\Atividade_Inicial.runtimeconfig.json
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\bin\Debug\netcoreapp3.1\Atividade_Inicial.runtimeconfig.dev.json
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\bin\Debug\netcoreapp3.1\Atividade_Inicial.dll
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\bin\Debug\netcoreapp3.1\Atividade_Inicial.pdb
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\obj\Debug\netcoreapp3.1\Atividade_Inicial.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\obj\Debug\netcoreapp3.1\Atividade_Inicial.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\obj\Debug\netcoreapp3.1\Atividade_Inicial.AssemblyInfo.cs
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\obj\Debug\netcoreapp3.1\Atividade_Inicial.dll
+C:\Users\etec\Desktop\Atividade_Inicial\Atividade_Inicial\obj\Debug\netcoreapp3.1\Atividade_Inicial.pdb
